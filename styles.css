@@ -1,0 +1,7 @@
+body {
+    background-color: slategrey; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    color: black; font-weight: 300; font-size: medium; 
+}
+hr {
+    border-style: dotted none none none; width: 5pc; border-color: black; border-width: 5px;
+}                      
